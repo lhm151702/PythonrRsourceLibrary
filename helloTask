@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 #-*- coding:UTF-8
 #Author: xiamo
-
+#2018年12月6日 22:24:27
 print("Programming Start!")
 print("Hello，Welcome to Python world!",end=" ")
 print("Programming end!")
